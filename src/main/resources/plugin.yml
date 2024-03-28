@@ -1,0 +1,6 @@
+name: interview
+version: '${version}'
+main: com.github.kaspiandev.interview.Interview
+api-version: '1.16'
+commands:
+  quest: { }
